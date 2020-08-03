@@ -1,4 +1,4 @@
-# Atmega48 microntroller running lights
+# Atmega48 microcontroller running lights
 
 Tested on Atmega48  
 Code for creating a running lights effect initially from left to right  
